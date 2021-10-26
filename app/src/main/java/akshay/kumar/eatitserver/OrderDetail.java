@@ -27,7 +27,7 @@ public class OrderDetail extends AppCompatActivity {
         order_comment=(TextView) findViewById(R.id.order_comment);
 
         firstFood=(RecyclerView) findViewById(R.id.firstFoods);
-        firstFood.setHasFixedSize(true);
+     //   firstFood.setHasFixedSize(true);
         layoutManager=new LinearLayoutManager(this);
         firstFood.setLayoutManager(layoutManager);
 
