@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eat It Server</string>
+    <string name="slogan">We Transport products to customers as quickly as our ex betrays.</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+</resources>
